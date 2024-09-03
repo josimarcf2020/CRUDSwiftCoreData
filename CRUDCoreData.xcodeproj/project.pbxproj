@@ -13,6 +13,7 @@
 		A9A46EC22C8291BE0090E1D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9A46EC12C8291BE0090E1D9 /* Preview Assets.xcassets */; };
 		A9A46EC42C8291BE0090E1D9 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A46EC32C8291BE0090E1D9 /* Persistence.swift */; };
 		A9A46EC72C8291BE0090E1D9 /* CRUDCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A9A46EC52C8291BE0090E1D9 /* CRUDCoreData.xcdatamodeld */; };
+		A9A8A0A72C868AD8009D8245 /* CRUDJsonData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A8A0A62C868AD8009D8245 /* CRUDJsonData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A9A46EC12C8291BE0090E1D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A9A46EC32C8291BE0090E1D9 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A9A46EC62C8291BE0090E1D9 /* CRUDCoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CRUDCoreData.xcdatamodel; sourceTree = "<group>"; };
+		A9A8A0A62C868AD8009D8245 /* CRUDJsonData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CRUDJsonData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				A9A46EBA2C8291BD0090E1D9 /* CRUDCoreDataApp.swift */,
 				A9A46EBC2C8291BD0090E1D9 /* ContentView.swift */,
+				A9A8A0A62C868AD8009D8245 /* CRUDJsonData.swift */,
 				A9A46EBE2C8291BE0090E1D9 /* Assets.xcassets */,
 				A9A46EC32C8291BE0090E1D9 /* Persistence.swift */,
 				A9A46EC52C8291BE0090E1D9 /* CRUDCoreData.xcdatamodeld */,
@@ -145,6 +148,7 @@
 			files = (
 				A9A46EC42C8291BE0090E1D9 /* Persistence.swift in Sources */,
 				A9A46EBD2C8291BD0090E1D9 /* ContentView.swift in Sources */,
+				A9A8A0A72C868AD8009D8245 /* CRUDJsonData.swift in Sources */,
 				A9A46EC72C8291BE0090E1D9 /* CRUDCoreData.xcdatamodeld in Sources */,
 				A9A46EBB2C8291BD0090E1D9 /* CRUDCoreDataApp.swift in Sources */,
 			);
